@@ -1,3 +1,3 @@
-contactsNode
+contactsStatic
 ====
-人脉：执行文件
+人脉项目：静态文件
